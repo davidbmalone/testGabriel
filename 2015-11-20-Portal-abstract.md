@@ -14,7 +14,7 @@ Wheaton College's Buswell Library planned and executed a re-organization in 2011
 
 [Paragraph on what is unique about our re-org?]
 
-![test image]({{ site.url }}/public/zj0GuvW24FwNO8xt3bRQ_img_0.jpg)
+![test image]({{ site.url }}/public/zj0GuvW24FwNO8xt3bRQ_img_0.jpg) 
 
 **Notes:**
 

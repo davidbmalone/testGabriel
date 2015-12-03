@@ -38,7 +38,7 @@ When a new file is loaded the data is first displayed on screen before it is com
 
 **Publisher / Platform **
 
-![image alt text]({{ site.url }}/public/HIPK5Z9fKpNfcUfNhKYow_img_0.png)
+![image alt text](/public/HIPK5Z9fKpNfcUfNhKYow_img_0.png)
 
 When a new file is loaded an entry for each Platform and Publisher combination listed in the file is created. It is through the Publisher / Platform page that the information about each Platform and Publisher is accessed. This includes the statistics data as well as the administrator login required to download new reports from the publishers' website. As shown in the picture above, this information can be accessed at both the Publisher and Platform level. Platforms are listed first and the corresponding publishers are collapsed. The MetaPress example above has been expanded to show the corresponding publishers. The 'view/edit? link brings the user to the following detailed information page for the publisher or platform selected. 
 
